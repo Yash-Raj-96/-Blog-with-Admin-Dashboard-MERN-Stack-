@@ -1,8 +1,6 @@
-# Blogify: A Full-Stack MERN Blog Application
+# Blog: A Full-Stack MERN Blog Application
 
 **Welcome to Blogify!**
-
-[**🚀 Live Demo:**](https://blogify-mern-app.onrender.com/)
 
 A powerful full-stack blog platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Blogify delivers a clean, responsive interface with secure authentication and rich blogging features.
 
