@@ -22,43 +22,29 @@ A powerful full-stack blog platform built with the **MERN stack** (MongoDB, Expr
 
 The homepage showcases recent blog posts and provides navigation throughout the app.
 
----
-
 ### 🛡️ Admin Dashboard
 
 Admin-only access to manage users, posts, and comments.
-
----
 
 ### 📝 Sign Up
 
 Register with email/password or Google OAuth.
 
----
-
 ### 🔐 Sign In
 
 Secure login with credentials or Google account.
-
----
 
 ### ➕ Create Post
 
 Authenticated users can compose blog posts with images and tags.
 
----
-
 ### ✏️ Update Post
 
 Edit your own posts directly from the dashboard.
 
----
-
 ### 🔎 Search
 
 Find content by keyword with advanced filtering.
-
----
 
 ### 📄 Post Details
 
