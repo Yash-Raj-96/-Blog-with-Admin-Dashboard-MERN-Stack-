@@ -1,8 +1,3 @@
-Sure! Here's your modified `README.md` with your name and GitHub profile, and everything properly cleaned up and personalized. I’ve also fixed some formatting issues and added a nice signature at the bottom.
-
----
-
-```markdown
 # Blogify: A Full-Stack MERN Blog Application
 
 **Welcome to Blogify!**
