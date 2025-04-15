@@ -19,7 +19,7 @@ A powerful full-stack blog platform built with the **MERN stack** (MongoDB, Expr
 ### 🏠 Home Page
 
 The homepage showcases recent blog posts and provides navigation throughout the app.
-
+![home](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/6b489d07-e437-46fd-b8e0-e1a3b4b12340)
 ### 🛡️ Admin Dashboard
 
 Admin-only access to manage users, posts, and comments.
