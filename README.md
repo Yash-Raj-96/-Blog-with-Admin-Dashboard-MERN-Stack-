@@ -3,7 +3,7 @@
 **Welcome to Blogify!**
 
 A powerful full-stack blog platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Blogify delivers a clean, responsive interface with secure authentication and rich blogging features.
-
+![home](https://github.com/Yash-Raj-96/Blog-with-Admin-Dashboard-MERN-Stack/blob/main/client/src/components/I/1.png?raw=true)
 
 ---
 
@@ -19,34 +19,31 @@ A powerful full-stack blog platform built with the **MERN stack** (MongoDB, Expr
 ### 🏠 Home Page
 
 The homepage showcases recent blog posts and provides navigation throughout the app.
-![home](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/6b489d07-e437-46fd-b8e0-e1a3b4b12340)
+![home](https://github.com/Yash-Raj-96/Blog-with-Admin-Dashboard-MERN-Stack/blob/main/client/src/components/I/1.1.png?raw=true)
 ### 🛡️ Admin Dashboard
 
 Admin-only access to manage users, posts, and comments.
-
+![admin](https://github.com/Yash-Raj-96/Blog-with-Admin-Dashboard-MERN-Stack/blob/main/client/src/components/I/3.png?raw=true)
 ### 📝 Sign Up
 
 Register with email/password or Google OAuth.
-
+![signup](https://github.com/Yash-Raj-96/Blog-with-Admin-Dashboard-MERN-Stack/blob/main/client/src/components/I/4.png?raw=true)
 ### 🔐 Sign In
 
 Secure login with credentials or Google account.
-
+![signin](https://github.com/Yash-Raj-96/Blog-with-Admin-Dashboard-MERN-Stack/blob/main/client/src/components/I/5.png?raw=true)
 ### ➕ Create Post
 
 Authenticated users can compose blog posts with images and tags.
-
+![createpost](https://github.com/Yash-Raj-96/Blog-with-Admin-Dashboard-MERN-Stack/blob/main/client/src/components/I/6.png?raw=true)
 ### ✏️ Update Post
 
 Edit your own posts directly from the dashboard.
-
+![update](https://github.com/Yash-Raj-96/Blog-with-Admin-Dashboard-MERN-Stack/blob/main/client/src/components/I/7.png?raw=true)
 ### 🔎 Search
 
 Find content by keyword with advanced filtering.
-
-### 📄 Post Details
-
-Displays full post content with title, image, read time, and comments.
+![search](https://github.com/Yash-Raj-96/Blog-with-Admin-Dashboard-MERN-Stack/blob/main/client/src/components/I/9.png?raw=true)
 
 ---
 
